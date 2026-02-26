@@ -1,2 +1,2 @@
-# Object-Oriented-Programming-
+# Object-Oriented-Programming
 Объект хандлагат программчлал болон прогрммчлалын зарчмийг илэрхийлсэн кодуудыг оруулна.
